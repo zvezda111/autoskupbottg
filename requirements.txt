@@ -1,0 +1,13 @@
+aiogram
+telethon
+dotenv
+phonenumbers
+asyncpg
+SQLAlchemy>=1.4
+alembic
+psycopg2-binary
+pycountry
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic

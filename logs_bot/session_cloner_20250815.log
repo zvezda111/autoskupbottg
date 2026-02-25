@@ -1,0 +1,7 @@
+2025-08-15 10:28:40,875 | INFO | app.bot.main | Starting SpamBlock check
+2025-08-15 10:28:41,073 | INFO | app.bot.main | Sent /start message to SpamBot
+2025-08-15 10:28:41,186 | INFO | app.bot.main | SpamBot response: 'Your account was blocked for violations of the [Telegram Terms of Service](https://telegram.org/tos) based on user reports confirmed by our moderators.'
+2025-08-15 10:28:41,345 | ERROR | app.bot.main | An unexpected error occurred during SpamBot check: RPCError 420: FROZEN_METHOD_INVALID (caused by ReadHistoryRequest)
+2025-08-15 11:47:48,800 | INFO | app.bot.main | Starting SpamBlock check
+2025-08-15 11:47:49,272 | INFO | app.bot.main | Sent /start message to SpamBot
+2025-08-15 11:47:49,447 | INFO | app.bot.main | SpamBot response: 'Good news, no limits are currently applied to your account. You’re free as a bird!'
